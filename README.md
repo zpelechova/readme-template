@@ -27,11 +27,11 @@ It's easy to scrape [target website name with link] with [Actor Name]. Just foll
 4. When [Actor Name] has finished, preview or download your data from the Dataset tab.
 
 ## How much will it cost to scrape [target website name]?
-Apify gives you with $5 free usage credits every month on the Apify Free plan. You can get XXXX results per month from [Actor Name] for that, so those XXXX results will be completely free!
+Apify gives you with $5 free usage credits every month on the [Apify Free plan](https://apify.com/pricing). You can get XXXX results per month from [Actor Name] for that, so those XXXX results will be completely free!
 
-But if you need to get more data regularly from [target website name], you should grab an Apify subscription. We recommend our $49/month Personal plan - you can get up to XXXXXX every month with the $49 monthly plan! 
+But if you need to get more data regularly from [target website name], you should grab an Apify subscription. We recommend our [$49/month Personal plan](https://apify.com/pricing) - you can get up to XXXXXX every month with the $49 monthly plan! 
 
-Or get XXXXXXXX results for $499 with the Team plan - wow!
+Or get XXXXXXXX results for $499 with the [Team plan](https://apify.com/pricing) - wow!
 
 ## Results
 [example of JSON and/or HTML results]
